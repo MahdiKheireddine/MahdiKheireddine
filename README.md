@@ -12,8 +12,8 @@
 
 <!-- Social badges -->
 <p align="center">
-  <a href="<!-- TODO: linkedin URL -->"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:<!-- TODO: email -->"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mehdi-kheir-eddine-b66750193/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mehdikheireddine0@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.fiverr.com/mehdi_it_"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
   <a href="<!-- TODO: portfolio URL (optional) -->"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=MahdiKheireddine&style=for-the-badge&color=4F8EF7&label=PROFILE+VIEWS" />
@@ -27,8 +27,8 @@ I'm a **Software Engineer from Algeria** oriented to **enterprise software** —
 
 - 🏢 **Currently at** [Sophal SPA](#) (Oran, Algeria) — engineering a custom ERP system for a pharmaceutical manufacturing company
 - 🌍 **Open to** international opportunities in enterprise software, ERP & CRM ecosystems, and cloud-native business platforms
-- 🎯 **Focus areas:** Enterprise application development · Backend services · System integration · Business process automation
-- 🌱 **Currently deepening:** Cloud technologies, software architecture, and distributed enterprise systems
+- 🎯 **Focus areas:** Enterprise application development · Backend services · System integration · Business process automation · Computer Networking
+- 🌱 **Currently deepening:** DevOps, software architecture, and distributed enterprise systems
 - 💼 **Freelance:** Available on [Fiverr](https://www.fiverr.com/mehdi_it_) for custom enterprise & web development work
 - 📫 **Reach me at:** <!-- TODO: your-email@example.com -->
 
@@ -109,7 +109,7 @@ I'm a **Software Engineer from Algeria** oriented to **enterprise software** —
 I'm **oriented to enterprise software** — the platforms that run businesses end-to-end. My work spans **ERP and CRM systems**, business intelligence, system integration, and the automation of complex business processes. I care about software that solves real operational problems, scales cleanly, and gets used every day.
 
 ---
-
+<!--
 ## 📂 Featured Projects
 
 <div align="center">
@@ -123,6 +123,7 @@ I'm **oriented to enterprise software** — the platforms that run businesses en
 </a>
 
 </div>
+-->
 
 > 💡 Personal projects exploring full-stack patterns alongside my professional ERP work. **QuizHub** is a production-deployed Django platform with role-based access, weighted scoring, and invitation flows. **InterviewLab** *(in development)* is a real-time technical interview platform built with Django Channels and React.
 
@@ -170,7 +171,7 @@ I'm particularly interested in roles where engineering rigor meets real business
 ## 🤝 Let's Work Together
 
 <p align="center">
-  Available for freelance enterprise & web development on Fiverr<br><br>
+  Available Fiverr<br><br>
   <a href="https://www.fiverr.com/mehdi_it_">
     <img src="https://img.shields.io/badge/Hire_Me_on_Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
   </a>
@@ -183,4 +184,6 @@ I'm particularly interested in roles where engineering rigor meets real business
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" />
 </p>
 
+<!--
 <p align="center"><em>"Engineering enterprise software with precision, scaling it with intention."</em></p>
+-->
