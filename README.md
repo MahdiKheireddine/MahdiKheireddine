@@ -30,7 +30,7 @@ I'm a **Software Engineer from Algeria** oriented to **enterprise software** —
 - 🎯 **Focus areas:** Enterprise application development · Backend services · System integration · Business process automation · Computer Networking
 - 🌱 **Currently deepening:** DevOps, software architecture, and distributed enterprise systems
 - 💼 **Freelance:** Available on [Fiverr](https://www.fiverr.com/mehdi_it_) for custom enterprise & web development work
-- 📫 **Reach me at:** <!-- TODO: your-email@example.com -->
+- 📫 **Reach me at:** mehdikheireddine0@gmail.com
 
 ---
 
