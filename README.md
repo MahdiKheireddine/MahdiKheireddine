@@ -1,6 +1,6 @@
 <!-- Animated header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Mehdi%20Kheireddine&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Enterprise%20Software%20%E2%80%A2%20ERP%20%26%20CRM&descAlignY=58&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Mehdi%20Kheireddine&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <!-- Typing animation -->
@@ -74,6 +74,8 @@ I'm a **Software Engineer from Algeria** oriented to **enterprise software** —
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTMX](https://img.shields.io/badge/HTMX-3366CC?style=for-the-badge&logo=htmx&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-77C1D2?style=for-the-badge&logo=alpinedotjs&logoColor=black)
 
 ### Backend & Frameworks
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -81,14 +83,17 @@ I'm a **Software Engineer from Algeria** oriented to **enterprise software** —
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 
+### ERP
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+![Axelor](https://img.shields.io/badge/Axelor-00C853?style=for-the-badge&logo=leaflet&logoColor=white)
+
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Automation, Scraping & ERP
+### Automation, Scraping & Tools
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-59666C?style=for-the-badge&logo=python&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 
 ### Data & Analysis
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -117,15 +122,16 @@ I'm **oriented to enterprise software** — the platforms that run businesses en
 <a href="https://github.com/MahdiKheireddine/QuizHub">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MahdiKheireddine&repo=QuizHub&theme=react&hide_border=true&bg_color=0d1117&title_color=4F8EF7&icon_color=4F8EF7" />
 </a>
-<!-- TODO: replace repo name below with your actual InterviewLab repo once created -->
+<!-- TODO: replace repo name below with your actual InterviewLab repo once created
 <a href="https://github.com/MahdiKheireddine/InterviewLab">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MahdiKheireddine&repo=InterviewLab&theme=react&hide_border=true&bg_color=0d1117&title_color=4F8EF7&icon_color=4F8EF7" />
 </a>
 
 </div>
--->
+
 
 > 💡 Personal projects exploring full-stack patterns alongside my professional ERP work. **QuizHub** is a production-deployed Django platform with role-based access, weighted scoring, and invitation flows. **InterviewLab** *(in development)* is a real-time technical interview platform built with Django Channels and React.
+-->
 
 ---
 
@@ -134,9 +140,12 @@ I'm **oriented to enterprise software** — the platforms that run businesses en
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=MahdiKheireddine&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=4F8EF7&icon_color=4F8EF7&count_private=true" />
+
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiKheireddine&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=4F8EF7&langs_count=8" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MahdiKheireddine&theme=react&hide_border=true&background=0d1117&ring=4F8EF7&fire=4F8EF7&currStreakLabel=4F8EF7" />
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=MahdiKheireddine&theme=react&hide_border=true&background=0d1117&ring=4F8EF7&fire=4F8EF7&currStreakLabel=4F8EF7" />
 
 </div>
 
